@@ -3,3 +3,5 @@
 *.wav
 *.mp3
 README.ipynb
+.DS_Store
+*.bad
